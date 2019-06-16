@@ -1,0 +1,8 @@
+﻿  Project2.cpp
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project2\project2\project2.cpp(77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project2\project2\project2.cpp(91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project2\project2\project2.cpp(116): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project2\project2\project2.cpp(130): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project2\project2\project2.cpp(155): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project2\project2\project2.cpp(169): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project2.vcxproj -> C:\Users\jared\Desktop\School Work\2018-2019 School Work\Programming Foundations I\Project2\Debug\Project2.exe
